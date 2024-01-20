@@ -1,0 +1,126 @@
+
+{
+    "recipes": [
+      {
+        "id": "1",
+        "title": "Spaghetti Bolognese",
+        "description": "Classic Italian pasta dish",
+        "ingredients": [
+          { "id": "1", "name": "Spaghetti", "quantity": "200g" },
+          { "id": "2", "name": "Ground Beef", "quantity": "250g" },
+          { "id": "3", "name": "Tomato Sauce", "quantity": "1 cup" }
+        ],
+        "preparationSteps": ["Boil spaghetti", "Cook ground beef", "Mix with tomato sauce"]
+      },
+      {
+        "id": "2",
+        "title": "Chicken Alfredo",
+        "description": "Creamy pasta with grilled chicken",
+        "ingredients": [
+          { "id": "4", "name": "Fettuccine Pasta", "quantity": "250g" },
+          { "id": "5", "name": "Chicken Breast", "quantity": "300g" },
+          { "id": "6", "name": "Heavy Cream", "quantity": "1 cup" },
+          { "id": "7", "name": "Parmesan Cheese", "quantity": "1/2 cup" }
+        ],
+        "preparationSteps": ["Cook pasta", "Grill chicken", "Mix with cream and cheese"]
+      },
+      {
+        "id": "3",
+        "title": "Margherita Pizza",
+        "description": "Classic Italian pizza with tomatoes and mozzarella",
+        "ingredients": [
+          { "id": "8", "name": "Pizza Dough", "quantity": "1 ball" },
+          { "id": "9", "name": "Tomatoes", "quantity": "3, sliced" },
+          { "id": "10", "name": "Mozzarella Cheese", "quantity": "200g" },
+          { "id": "11", "name": "Fresh Basil", "quantity": "A handful" }
+        ],
+        "preparationSteps": ["Roll out pizza dough", "Top with tomatoes, cheese, and basil", "Bake until crust is golden"]
+      },
+      {
+        "id": "4",
+        "title": "Vegetarian Stir-Fry",
+        "description": "Colorful stir-fried vegetables with tofu",
+        "ingredients": [
+          { "id": "12", "name": "Tofu", "quantity": "300g" },
+          { "id": "13", "name": "Broccoli", "quantity": "1 cup, florets" },
+          { "id": "14", "name": "Bell Peppers", "quantity": "1 cup, sliced" },
+          { "id": "15", "name": "Soy Sauce", "quantity": "2 tablespoons" }
+        ],
+        "preparationSteps": ["Press and cube tofu", "Stir-fry tofu and vegetables", "Add soy sauce and cook until vegetables are tender"]
+      },
+      {
+        "id": "5",
+        "title": "Caprese Salad",
+        "description": "Refreshing salad with tomatoes, mozzarella, and basil",
+        "ingredients": [
+          { "id": "16", "name": "Tomatoes", "quantity": "3, sliced" },
+          { "id": "17", "name": "Mozzarella Cheese", "quantity": "200g" },
+          { "id": "18", "name": "Fresh Basil", "quantity": "A handful" },
+          { "id": "19", "name": "Balsamic Glaze", "quantity": "2 tablespoons" }
+        ],
+        "preparationSteps": ["Arrange tomato and mozzarella slices on a plate", "Top with fresh basil", "Drizzle with balsamic glaze"]
+      },
+      {
+        "id": "6",
+        "title": "Grilled Salmon",
+        "description": "Healthy grilled salmon fillets with lemon and herbs",
+        "ingredients": [
+          { "id": "20", "name": "Salmon Fillets", "quantity": "2 pieces" },
+          { "id": "21", "name": "Lemon", "quantity": "1, sliced" },
+          { "id": "22", "name": "Fresh Dill", "quantity": "1 tablespoon, chopped" },
+          { "id": "23", "name": "Olive Oil", "quantity": "2 tablespoons" }
+        ],
+        "preparationSteps": ["Season salmon with salt, pepper, and dill", "Grill until cooked through", "Serve with lemon slices"]
+      },
+      {
+        "id": "7",
+        "title": "Mango Salsa",
+        "description": "Sweet and spicy salsa with fresh mango and jalapeño",
+        "ingredients": [
+          { "id": "24", "name": "Mango", "quantity": "1, diced" },
+          { "id": "25", "name": "Red Onion", "quantity": "1/2, finely chopped" },
+          { "id": "26", "name": "Jalapeño", "quantity": "1, finely chopped" },
+          { "id": "27", "name": "Cilantro", "quantity": "2 tablespoons, chopped" }
+        ],
+        "preparationSteps": ["Combine all ingredients in a bowl", "Chill before serving", "Pairs well with grilled meats"]
+      },
+      {
+        "id": "8",
+        "title": "Chocolate Chip Cookies",
+        "description": "Classic homemade cookies with chocolate chips",
+        "ingredients": [
+          { "id": "28", "name": "All-Purpose Flour", "quantity": "2 cups" },
+          { "id": "29", "name": "Chocolate Chips", "quantity": "1 cup" },
+          { "id": "30", "name": "Butter", "quantity": "1 cup, softened" },
+          { "id": "31", "name": "Brown Sugar", "quantity": "1 cup" }
+        ],
+        "preparationSteps": ["Cream butter and sugar", "Mix in flour and chocolate chips", "Bake until golden brown"]
+      },
+      {
+        "id": "9",
+        "title": "Chicken Curry",
+        "description": "Spicy and flavorful chicken curry with aromatic spices",
+        "ingredients": [
+          { "id": "32", "name": "Chicken Thighs", "quantity": "500g" },
+          { "id": "33", "name": "Curry Powder", "quantity": "2 tablespoons" },
+          { "id": "34", "name": "Coconut Milk", "quantity": "1 can" },
+          { "id": "35", "name": "Potatoes", "quantity": "2, diced" }
+        ],
+        "preparationSteps": ["Sauté chicken with curry powder", "Add coconut milk and potatoes", "Simmer until chicken is cooked"]
+      },
+      {
+        "id": "10",
+        "title": "Greek Salad",
+        "description": "Healthy salad with cucumbers, tomatoes, and feta cheese",
+        "ingredients": [
+          { "id": "36", "name": "Cucumbers", "quantity": "2, sliced" },
+          { "id": "37", "name": "Tomatoes", "quantity": "2, diced" },
+          { "id": "38", "name": "Feta Cheese", "quantity": "1/2 cup, crumbled" },
+          { "id": "39", "name": "Kalamata Olives", "quantity": "1/4 cup" }
+        ],
+        "preparationSteps": ["Combine vegetables and cheese in a bowl", "Drizzle with olive oil", "Toss gently and serve"]
+      }
+      
+    ]
+  }
+  
